@@ -6390,7 +6390,9 @@ a.close.disabled {
 
 .bg-primary {
   /* background-color: #0BCEAF !important; */
-  background-color: black !important;
+  /* background-color: black !important; */
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
